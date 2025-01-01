@@ -1,10 +1,3 @@
-/*
-hello_blink is a program to learn to control the output of a
-Raspberry Pi GPIO pin with the PIGPIO library. This program
-is an accompaniment to the book Practical Robotics in C++
-written by Lloyd Brombach and published by Packt Publishing
-*/
-
 #include <pigpiod_if2.h>
 #include <iostream>
 
