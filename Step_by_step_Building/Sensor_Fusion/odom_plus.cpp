@@ -6,8 +6,6 @@
 *This is intended to be used with an IMU like a BN0055 with a built-in fusion algorithm
 *to improve odometry. This is written to be readable for all levels and accompanies the book Practical Robotics in C++.
 *
-*Author: Lloyd Brombach (lbrombach2@gmail.com)
-*11/7/2019
 */
 
 #include "ros/ros.h"
