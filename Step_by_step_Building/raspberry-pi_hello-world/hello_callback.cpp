@@ -1,10 +1,3 @@
-/*
-hello_callback is a generic program to learn to use GPIO pin event
-callback functions with the PIGPIO library on a Raspberry pi.
-This program is an accompaniment to the book Practical Robotics in C++
-written by Lloyd Brombach and published by Packt Publishing.
-*/
-
 #include <iostream>
 #include <pigpiod_if2.h>
 
