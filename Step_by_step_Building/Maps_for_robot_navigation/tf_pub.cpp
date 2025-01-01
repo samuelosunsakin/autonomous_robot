@@ -3,11 +3,6 @@
 *and publishes an odom to base_link transform based on that data.
 *Unlike some of node and messages we use for examples in Practical Robotics in C++,
 *tf_pub uses quaternions and illustrates how to conver euler to quaternion
-*This program is an accompaniment to the book Practical Robotics in C++
-*written by Lloyd Brombach and published by Packt Publishing
-*
-*Author: Lloyd Brombach (lbrombach2@gmail.com)
-*11/7/2019
 */
 
 #include "ros/ros.h"
