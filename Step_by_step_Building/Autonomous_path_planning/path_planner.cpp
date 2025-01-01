@@ -1,13 +1,3 @@
-/*
-*path_planner.cpp
-*
-*This is a simple path planner node that subscribes to an occupancy grid
-*_map and publishes waypoints one at a time. The next waypoint is published
-*when the current pose reaches the previous waypoint. A* is the algorithm used.
-*
-*Author: Lloyd Brombach (lbrombach2@gmail.com)
-*11/7/2019
-*/
 #include "ros/ros.h"
 #include "practical_nav/practical_common.h"
 #include "nav_msgs/OccupancyGrid.h"
