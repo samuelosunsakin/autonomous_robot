@@ -1,8 +1,6 @@
 /*
 hello_serial.cpp is a program to learn to use and test
 serial communication with the PIGPIO library for the Raspberry Pi.
-This program is an accompaniment to the book Practical Robotics in C++
-written by Lloyd Brombach and published by Packt Publishing
 */
 
 #include <iostream>
