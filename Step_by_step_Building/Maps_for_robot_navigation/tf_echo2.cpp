@@ -2,11 +2,6 @@
 *tf_echo2.cpp is a simple ROS node that displays odom to base_link 
 *transform data based on a lookupTransform() call.
 *Intent is a simple utility that helps teach converting from quaternion to euler angle.
-*This program is an accompaniment to the book Practical Robotics in C++
-*written by Lloyd Brombach and published by Packt Publishing
-*
-*Author: Lloyd Brombach (lbrombach2@gmail.com)
-*11/7/2019
 */
 
 #include "ros/ros.h"
