@@ -1,8 +1,6 @@
 /*
 hello_motor is a program to learn to use a L298N dual
 H Bridge motor driver with the PIGPIO library for the Raspberry Pi.
-This program is an accompaniment to the book Practical Robotics in C++
-written by Lloyd Brombach and published by Packt Publishing
 */
 
 
