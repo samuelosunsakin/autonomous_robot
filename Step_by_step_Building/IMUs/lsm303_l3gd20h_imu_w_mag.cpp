@@ -1,12 +1,3 @@
-/*
-*This is a ROS node that that reads and publishes an LSM303 magnetometer in addition to
-*an LSM303DLHC accelerometer and L3GD20 gyroscope in ROS. This is written simply
-*to be readable for all levels and accompanies lessons in the book Practical Robotics in C++.
-*
-*Author: Lloyd Brombach (lbrombach2@gmail.com)
-*11/7/2019
-*/
-
 #include "ros/ros.h"
 #include "sensor_msgs/Imu.h"
 #include "sensor_msgs/MagneticField.h"
